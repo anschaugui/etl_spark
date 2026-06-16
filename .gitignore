@@ -2,3 +2,4 @@ venv/
 *.db
 portainer_data/
 .envapplication/open_metadata/docker-volume/
+application/open_metadata/docker-volume/
